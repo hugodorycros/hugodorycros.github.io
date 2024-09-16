@@ -6,6 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<br/><img src='/images/IMG_7317.jpeg'>
 
 (/images/IMG_7317.jpeg){: •align-right width="300px"}
 
